@@ -85,7 +85,9 @@ font-family: 'Nunito', sans-serif;
 }
 .image-size2{
     width: 400px;
-    height: 400px;
+    height: 450px;
+    margin-left: 40%;
+    padding-bottom: 90px;
 }
 .link-button-style{
     text-decoration: none;
