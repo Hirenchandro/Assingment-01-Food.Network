@@ -68,7 +68,7 @@ font-family: 'Nunito', sans-serif;
 }
 
 .Box-shadow{
-    box-shadow: 10px 10px 30px gray;
+    box-shadow: -2px -2px 50px silver;
     width: 30%;
     margin: 2%;
     padding-left: 30px;
