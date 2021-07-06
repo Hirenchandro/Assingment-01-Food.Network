@@ -1,0 +1,124 @@
+body{
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+font-size: 50px;
+line-height:60%;
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+h4{
+    font-size: 25px;
+}
+#color{
+    color:grey;
+    font-family: 'Merriweather', serif;
+font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 50px;
+}
+.flex-container-2{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 40px;
+    
+}
+.flex-container-3{
+    display: flex;
+    box-shadow: 10px 10px 200px lightgrey;
+    width: 95%;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right:2px;
+    margin-bottom: 3%;
+    margin-left: 10px;
+    margin-top: 3%;
+   
+   
+
+}
+.width1{
+    width: 40%;
+    padding-top: 130px;
+    padding-left: 30px;
+    margin: 0;
+}
+.width2 {
+    width: 50%;
+    padding: 20px;
+    margin: 0;
+}
+.width3{
+    width: 50%;
+    padding: 10px;
+    margin: 0;
+}
+.width4{
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 10px;
+    margin: 0;
+}
+
+.Box-shadow{
+    box-shadow: 10px 10px 30px gray;
+    width: 30%;
+    margin: 2%;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-right:2px;
+    border-radius: 25px;
+   
+}
+
+ .image-size1{
+        width: 600px;
+        height: auto;
+  
+}
+.image-size2{
+    width: 400px;
+    height: 400px;
+}
+.link-button-style{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,orange);
+    color: seashell;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+   padding: 10px 40px;
+   font-weight: 700;
+    
+}
+#bg-image{
+    background-image: url(images/shapes/7.png);
+}
+.recipies-detail{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 0;
+}
+.image-size-sec4{
+    width: 300px;
+    height: 250px;
+}
+.social-subscriber{
+    margin-left: 15%;
+}
+
+#footer-style{
+    text-align: center;
+    background-color:#0B0D17;
+    font-family: 'Merriweather', serif;
+    height: 180px;
+    padding-top: 2px;
+    padding-bottom: 50px;
+    margin: 0;
+}
